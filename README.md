@@ -3,7 +3,7 @@ SupernvaOS Privacy is a custom version of SupernovaOS with more privacy features
 
 # Information
 
-We won't share the code of EntropyUI for SupernovaOS Privac. Here you can only find the software that we modified for SupernovaOS Privacy, for example, software with an open source license. Each app or feature will have its own folder with a license file in it, and the code. 
+We won't share the code of EntropyUI for SupernovaOS Privacy. Here you can only find the software that we modified for SupernovaOS Privacy, for example, software with an open source license. Each app or feature will have its own folder with a license file in it, and the code. 
 
 # Get SupernovaOS Privacy
 
