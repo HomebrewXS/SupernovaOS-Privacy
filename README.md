@@ -3,7 +3,8 @@ SupernvaOS Privacy is a custom version of SupernovaOS with more privacy features
 
 # Information
 
-We won't share the code of EntropyUI for SupernovaOS Privacy. Here you can only find the software that we modified for SupernovaOS Privacy, for example, software with an open source license. Each app or feature will have its own folder with a license file in it, and the code. 
+This version is currently not maintained anymore. You can still request a version of SupernovaOS Privacy, you cannot get the Qt QML version of SupernovaOS due to open source licenses. You will get the HTML, CSS Version of SupernovaOS. 
+For custom changes and features for SupernovaOS Qt QML we will have to release the source code on a different repository! 
 
 # Get SupernovaOS Privacy
 
